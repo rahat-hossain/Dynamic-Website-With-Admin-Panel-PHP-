@@ -1,0 +1,20 @@
+/* ------------------------------registration----------------------------- */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #30a1ac;
+  /* height: 100vh; */
+}
+#reg .container #reg-row #reg-column #reg-box {
+  margin-top: 30px;
+  max-width: 600px;
+  /* height: 560px; */
+  border: 2px solid #9C9C9C;
+  background-color: #EAEAEA;
+}
+#reg .container #reg-row #reg-column #reg-box #reg-form {
+  padding: 20px;
+}
+#reg .container #reg-row #reg-column #reg-box #reg-form #register-link {
+  margin-top: -85px;
+}
